@@ -264,6 +264,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 10
-  jumpHeight: 10
-  gravity: 9.81
-  airControl: 10
+  jumpHeight: 1
+  gravity: 22
+  airControl: 5
